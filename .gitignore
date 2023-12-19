@@ -1,0 +1,16 @@
+
+# .gitignore
+
+
+# Virtual environment
+.venv
+
+credentials.json
+img/
+
+# Other temporary or system files
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
